@@ -139,8 +139,6 @@ h2 {
 .price-section {
   background-color: var(--clr-primary-cyan);
   color: var(--clr-neutral-light-gray);
-  /* display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr; */
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -170,8 +168,6 @@ button {
   background-color: var(--clr-primary-light-cyan);
   color: var(--clr-neutral-light-gray);
   padding: 1rem;
-  /*   display: grid;
-  grid-template-rows: 1fr 7fr; */
   display: flex;
   flex-direction: column;
   justify-content: space-around;
