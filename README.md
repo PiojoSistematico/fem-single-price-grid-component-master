@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://piojosistematico.github.io/fem-four-card-feature-section-master/)
+- Solution URL: [Solution](https://piojosistematico.github.io/fem-single-price-grid-component-master/)
 
 ## My process
 
